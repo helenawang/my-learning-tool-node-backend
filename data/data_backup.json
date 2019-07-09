@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "type": "textbox",
+            "name": "name",
+            "required": true,
+            "description": "we usually call"
+        },
+        {
+            "type": "tags",
+            "name": "tags",
+            "required": false,
+            "description": "easier for index and search"
+        },
+        {
+            "type": "textbox",
+            "name": "spirit",
+            "required": false,
+            "description": "soul"
+        },
+        {
+            "type": "textarea",
+            "name": "background",
+            "required": false,
+            "description": "context of the problem"
+        },
+        {
+            "type": "textarea",
+            "name": "motivation",
+            "required": false,
+            "description": "the inspiration of the idea"
+        },
+        {
+            "type": "tags",
+            "name": "pros",
+            "required": false,
+            "description": "advantages"
+        },
+        {
+            "type": "tags",
+            "name": "cons",
+            "required": false,
+            "description": "disadvantages"
+        },
+        {
+            "type": "tags",
+            "name": "components",
+            "required": false,
+            "description": "building blocks"
+        },
+        {
+            "type": "tags",
+            "name": "alternatives",
+            "required": false,
+            "description": "other implementations"
+        },
+        {
+            "type": "tags",
+            "name": "references",
+            "required": false,
+            "description": ""
+        }
+    ]
+}

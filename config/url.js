@@ -1,0 +1,1 @@
+exports.ES_CLIENT_URL = 'http://YOUR_OWN_SERVER_IP_AND_PORT';
