@@ -8,7 +8,7 @@ The knowledge data are private now, and you can use your own question template.
 
 The motivation of the whole project can be found in [the front end part repository](https://github.com/helenawang/my-learning-tool#motivation). I put it there because I started the project from the front end part, and so far I just treated this so called back end part as a bridge between data sources and the front end part.
 
-The motivation of this repository is that one day I suddenly found I cannot save data and retrieve it later if I just have a front end !! So I tried to build a back end using java and [Spring boot](https://spring.io/projects/spring-boot), but the code is kind of complex and there is some cost of switching language. Then I thought maybe I could try using node.js to make it easier now (Afterwards, I found it not easier either...).
+The motivation of this repository is that one day I suddenly found I cannot save data and retrieve it later if I just have a front end !! So I tried to build a back end using java and [Spring boot](https://spring.io/projects/spring-boot), but the code is kind of complex and there is some cost of switching language. Then I thought maybe I could try using node.js to make it easier (Afterwards, I found it not easy either...).
 
 I'm not very familiar with building a standalone server side application with node.js, and most of the time, I just use node as dev tools for building client side application. So this repository is not that well-structured now.
 
